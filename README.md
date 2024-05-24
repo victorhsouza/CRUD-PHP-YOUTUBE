@@ -6,7 +6,7 @@ Este repositório faz parte de uma playlist de vídeos no YouTube sobre a criaç
 
 Você pode assistir aos vídeos da playlist no YouTube através do seguinte link:
 
-[Playlist: Criação de um Sistema CRUD em PHP](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+[Playlist: Criação de um Sistema CRUD em PHP](https://www.youtube.com/playlist?list=PLGVWRac7__clA9GK3DAiho4WS2M15f2M3)
 
 ## Conteúdo do Repositório
 
