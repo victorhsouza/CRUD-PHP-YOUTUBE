@@ -8,6 +8,7 @@
 <body>
     <h1> Seja bem vindo </h1>
 
-    <a href="view/formCadastrarCliente.php"> Cadastrar Cliente </a>
+    <a href="view/formCadastrarCliente.php"> Cadastrar Cliente </a> <br>
+    <a href="view/listarClientes.php"> Listar Clientes </a> <br>
 </body>
 </html>

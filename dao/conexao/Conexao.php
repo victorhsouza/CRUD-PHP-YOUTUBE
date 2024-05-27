@@ -19,7 +19,7 @@ abstract class Conexao
             // Define o modo de erro do PDO para exceções
             $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-            echo "Conexão com o banco de dados realizada com sucesso!";
+            // echo "Conexão com o banco de dados realizada com sucesso!";
             return $pdo;
         } catch (PDOException $e) {
             // Captura e exibe o erro, se houver falha na conexão
